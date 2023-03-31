@@ -25,8 +25,8 @@ I'm brazilian software developer living in São Paulo. I'm graduated in Civil En
 <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" height="50">
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunokrauthamer&layout=default&show_icons=true&count_private=true&show_icons=true&theme=tokyonight)
-![Github stats](https://github-readme-stats.vercel.app/api?username=brunokrauthamer&show_icons=true&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunokrauthamer&layout=compact&show_icons=true&count_private=true&show_icons=true&theme=tokyonight&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=brunokrauthamer&show_icons=true&count_private=true&show_icons=true&theme=tokyonight&show_icons=true)
 
 
 
