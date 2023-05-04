@@ -5,10 +5,10 @@ I'm brazilian software developer living in São Paulo. I'm graduated in Civil En
 - 💻 I'm currently learning FullStack Web Development at @betrybe
   - Main technologies: Python, TypeScript, JavaScript, MySQL, MongoDB, React
 - 📖 Advanced in English  
-- 📫 How to reach me: brunokrauthamer@gmail.com; https://www.linkedin.com/in/bruno-k-ba0280120/
+- 📫 How to reach me: brunokrauthamer@gmail.com; https://www.linkedin.com/in/bruno-krauthamer-ba0280120/
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brunokrauthamer@gmail.com)](mailto:brunokrauthamer@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-k-ba0280120/)](https://www.linkedin.com/in/bruno-k-ba0280120/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-krauthamer-ba0280120/)](https://www.linkedin.com/in/bruno-krauthamer-ba0280120/)
 
 
 #### Programing Languages:
